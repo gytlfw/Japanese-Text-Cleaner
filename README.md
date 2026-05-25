@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 日语对话语料清洗规则文档
 
 项目：ja-dialogue-cleaning-starter
@@ -41,3 +42,7 @@
 - angry：怒る、腹立たしい
 - question：疑問、どうして
 - neutral：默认情绪
+=======
+# Japanese-Text-Cleaner
+日语文本数据清洗、ですます体统一、去噪、情绪标注、不良内容过滤（10000 条数据集）
+>>>>>>> a5bdc668e9f27e3094174c88918b4dcc731b8d7c
